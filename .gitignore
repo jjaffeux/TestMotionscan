@@ -19,6 +19,5 @@ vendor/Pods
 vendor/Podfile.lock
 Gemfile.lock
 wildcard_dev.mobileprovision
-Rakefile
 app/motionscan_config.rb
 *.gem
